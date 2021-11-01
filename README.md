@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sagar Teria 3</h1>
+<h1 align="center">Hi 👋, I'm Sagar Teria</h1>
 <h3 align="center">A passionate product developer and product manager from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarteria&label=Profile%20views&color=0e75b6&style=flat" alt="sagarteria" /> </p>
